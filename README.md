@@ -1,6 +1,4 @@
-# https-github.com-Adalab-bda-modulo-2-evaluacion-final-sandranomore
-
-Evaluación Final Módulo 2
+# Evaluación Final Módulo 2
 
 Antes de empezar, hay que crear un nuevo repositorio desde GitHub Classroom usando
 este enlace. Una vez creado, hay que clonar en nuestro ordenador y en la carpeta creada
@@ -11,7 +9,7 @@ Puedes usar recursos externos, incluyendo internet y materiales de referencia o 
 propias notas.
 Completa los ejercicios en un archivo sql.
 
-Ejercicios
+# Ejercicios
 
 Base de Datos Sakila:
 Para este ejerccio utilizaremos la BBDD Sakila que hemos estado utilizando durante el repaso de
@@ -66,7 +64,7 @@ a 180 minutos en la tabla film.
 consulta debe mostrar el nombre y apellido de los actores y el número de películas en las
 que han actuado juntos.
 
-Normas
+# Normas
 
 Este ejercicio está pensado para que lo realices de forma individual en clase, pero podrás
 consultar tus dudas con la profesora y tus compañeras si lo consideras necesario. Ellas no te
@@ -91,7 +89,7 @@ nervios con la profesora en lugar de en tu primera entrevista de trabajo.
 Al final tendrás un feedback sobre aspectos a destacar y a mejorar en tu ejercicio, y sabrás qué
 objetivos de aprendizaje has supera
 
-Criterios de evaluación
+# Criterios de evaluación
 
 Vamos a listar los criterios de evaluación de este ejercicio. Si no superas al menos el 80% de
 estos criterios o no has superado algún criterio clave (marcados con *) te pediremos que
