@@ -64,31 +64,6 @@ a 180 minutos en la tabla film.
 consulta debe mostrar el nombre y apellido de los actores y el número de películas en las
 que han actuado juntos.
 
-# Normas
-
-Este ejercicio está pensado para que lo realices de forma individual en clase, pero podrás
-consultar tus dudas con la profesora y tus compañeras si lo consideras necesario. Ellas no te
-darán directamente la solución de tu duda, pero sí pistas para poder solucionarla. Aún
-facilitando la comunicación entre compañeras, durante la prueba no debes copiar código de
-otra persona ni acceder a su portátil. Confiamos en tu responsabilidad.
-    
-La evaluación es una buena oportunidad para conocer cómo estás progresando, saber qué
-temas debes reforzar durante las siguientes semanas y cuáles dominas. Te recomendamos que
-te sientas cómoda con el ejercicio que entregues y no envíes cosas copiadas que no entiendas.
-Si detectamos que has entregado código que no es tuyo, no entiendes y no lo puedes defender,
-pasarás directamente a la re-evaluación del módulo. Tu objetivo no debería ser pasar la
-evaluación sino convertirte en analisat de datos, y esto debes tenerlo claro en todo momento.
-Una vez entregado el ejercicio realizarás una revisión del mismo con la profesora (20 minutos),
-que se asemenjará a una entrevista técnica: te pedirá que expliques las decisiones tomadas
-para realizarlo.
-
-Es una oportunidad para practicar la dinámica de una entrevista técnica donde te van a
-proponer cambios sobre tu código que no conoces a priori. Si evitas que otras compañeras te
-den pistas sobre la dinámica de feedback, podrás aprovecharlo como una práctica y pasar los
-nervios con la profesora en lugar de en tu primera entrevista de trabajo.
-Al final tendrás un feedback sobre aspectos a destacar y a mejorar en tu ejercicio, y sabrás qué
-objetivos de aprendizaje has supera
-
 # Criterios de evaluación
 
 Vamos a listar los criterios de evaluación de este ejercicio. Si no superas al menos el 80% de
@@ -115,3 +90,7 @@ Usar inglés para nombres de variables, funciones, clases, mensajes de commit, n
 de ficheros.
 El repositorio de GitHub debe tener README explicando muy brevemente cómo arrancar
 el proyecto.
+
+# Diagrama Sakila
+
+![Captura de pantalla 2024-05-20 104123](https://github.com/sandranomore/https-github.com-Adalab-bda-modulo-2-evaluacion-final-sandranomore/assets/159695823/b6ddbd90-519f-476b-97af-83c50d562023)
