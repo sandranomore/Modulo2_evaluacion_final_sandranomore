@@ -1,4 +1,4 @@
-# Evaluación Final- Módulo 2 - Sandra Moreno
+# Evaluación Final - Módulo 2 - Sandra Moreno
 
 Antes de empezar, hay que crear un nuevo repositorio desde GitHub Classroom usando
 este enlace. Una vez creado, hay que clonar en nuestro ordenador y en la carpeta creada
@@ -92,6 +92,6 @@ El repositorio de GitHub debe tener README explicando muy brevemente cómo arran
 el proyecto.
 
 # Diagrama Sakila
-Además de está imagen, para una mejor visión del diagrama he adjuntado el archivo en el repo
+Además de está imagen, para una mejor visión del diagrama con el que trabajaremos he adjuntado el archivo en el repo
 
 ![Captura de pantalla 2024-05-20 104123](https://github.com/sandranomore/https-github.com-Adalab-bda-modulo-2-evaluacion-final-sandranomore/assets/159695823/b6ddbd90-519f-476b-97af-83c50d562023)
