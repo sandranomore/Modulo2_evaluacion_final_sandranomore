@@ -1,4 +1,4 @@
-# Evaluación Final Módulo 2 Sandra Moreno
+# Evaluación Final- Módulo 2 - Sandra Moreno
 
 Antes de empezar, hay que crear un nuevo repositorio desde GitHub Classroom usando
 este enlace. Una vez creado, hay que clonar en nuestro ordenador y en la carpeta creada
